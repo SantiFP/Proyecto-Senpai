@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Proyecto realizado para el curso de full stack developer de senpai, esto corresponde a la parte del frontend.
+
 Para ejecutar el proyecto primero correr el comando npm i ,seguido del comando npm start
 
 ### `npm start`
