@@ -1,4 +1,4 @@
-run npm install and then npm run dev to execute the app.
+run npm install and then npm start to execute the app.
 
 # Getting Started with Create React App
 
